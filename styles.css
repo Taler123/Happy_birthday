@@ -27,7 +27,7 @@
 }
 
 .box:nth-child(odd)::before {
-    content: "• С Днем Рождения •"
+    content: "• С Днем Рождения 23 •"
 }
 
 .box:nth-child(even)::before {
